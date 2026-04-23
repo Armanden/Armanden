@@ -4,7 +4,7 @@ I like making games and i think odin is the best language for that.Where which I
 
 Planning on switching to Openbsd
 
-Micro is the best editor can't convince me otherwise
+In need of a good editor config till then still on micro
 
 <!--
 **Armanden/Armanden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
