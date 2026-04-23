@@ -1,4 +1,10 @@
-## Hi there 👋
+# What
+Some random guy,
+I like making games and i think odin is the best language for that.Where which I am looking to collab with someone so getting out games is easier and more fun.
+
+Planning on switching to Openbsd
+
+Micro is the best editor can't convince me otherwise
 
 <!--
 **Armanden/Armanden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
