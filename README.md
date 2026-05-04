@@ -1,22 +1,8 @@
-# What
-Some random guy,
-I like making games and i think odin is the best language for that.Where which I am looking to collab with someone so getting out games is easier and more fun.
+# The Mentalilty
 
-Planning on switching to Openbsd
+Create your own software.
+Software should be simple and small.
+Move the world forward.
 
-In need of a good editor config till then still on micro
 
-<!--
-**Armanden/Armanden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
