@@ -1,8 +1,8 @@
 # The Mentalilty
 
-Create your own software.
-Software should be simple and small.
-Move the world forward.
+- Create your own software.
+- Software should be simple and small.
+- Move the world forward.
 
-
+OpenBSD user
 
