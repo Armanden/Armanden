@@ -4,5 +4,5 @@
 - Software should be simple and small.
 - Move the world forward.
 
-OpenBSD user
+	The World is full of stuff, most is nature and beuty the other human mistakes
 
