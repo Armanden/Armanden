@@ -1,8 +1,6 @@
 # The Mentalilty
 
-- Create your own software.
-- Software should be simple and small.
-- Move the world forward.
+- Software shouldn't Suck
 - Have Fun.
 
 	The World is full of stuff, most is nature and beauty the other human mistakes
