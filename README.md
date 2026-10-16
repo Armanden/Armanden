@@ -2,7 +2,7 @@
 I am Software/Game programmer soon to be aerospace engineer.
 
 # Killer Quote
-"Software Shouldn't Suck"
+"Stop Being Lazy and Build Software that doesn't SUCK"
 
 
 # Some Links
