@@ -1,9 +1,12 @@
-# The Mentalilty
+# Who and What
+I am Software/Game programmer soon to be aerospace engineer.
 
-- Software shouldn't Suck
-- Have Fun.
+# Killer Quote
+"Software Shouldn't Suck"
 
-	The World is full of stuff, most is nature and beauty the other human mistakes
 
-[MAIN](https://sr.ht/~armanden)
+# Some Links
+[Itch](https://armanden.itch.io)
+[Sourcehut](https://sr.ht/~armanden)
+
 
